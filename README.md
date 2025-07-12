@@ -1,4 +1,4 @@
-#🧠 Previsão de Recorrência de Câncer de Mama com Machine Learning
+# 🧠 Previsão de Recorrência de Câncer de Mama com Machine Learning
 
 Este repositório contém um notebook do Google Colab que implementa e compara diferentes algoritmos de Machine Learning para prever a recorrência de câncer de mama com base em dados clínicos e históricos.
 
